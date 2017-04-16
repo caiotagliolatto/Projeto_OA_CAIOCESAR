@@ -1,0 +1,15 @@
+c:\users\reds\documents\visual studio 2015\Projects\PROJETOFINALCOROLHO\Domain\obj\Debug\Domain.csprojResolveAssemblyReference.cache
+c:\users\reds\documents\visual studio 2015\Projects\PROJETOFINALCOROLHO\Domain\bin\Debug\Domain.dll
+c:\users\reds\documents\visual studio 2015\Projects\PROJETOFINALCOROLHO\Domain\bin\Debug\Domain.pdb
+c:\users\reds\documents\visual studio 2015\Projects\PROJETOFINALCOROLHO\Domain\obj\Debug\Domain.dll
+c:\users\reds\documents\visual studio 2015\Projects\PROJETOFINALCOROLHO\Domain\obj\Debug\Domain.pdb
+C:\Users\Jonatas\Desktop\SI\Sexto\Projects\NAVARRO\Entregar\projetoFINALpronto\PROJETOFINALCOROLHO\Domain\bin\Debug\Domain.dll
+C:\Users\Jonatas\Desktop\SI\Sexto\Projects\NAVARRO\Entregar\projetoFINALpronto\PROJETOFINALCOROLHO\Domain\bin\Debug\Domain.pdb
+C:\Users\Jonatas\Desktop\SI\Sexto\Projects\NAVARRO\Entregar\projetoFINALpronto\PROJETOFINALCOROLHO\Domain\obj\Debug\Domain.csprojResolveAssemblyReference.cache
+C:\Users\Jonatas\Desktop\SI\Sexto\Projects\NAVARRO\Entregar\projetoFINALpronto\PROJETOFINALCOROLHO\Domain\obj\Debug\Domain.dll
+C:\Users\Jonatas\Desktop\SI\Sexto\Projects\NAVARRO\Entregar\projetoFINALpronto\PROJETOFINALCOROLHO\Domain\obj\Debug\Domain.pdb
+C:\Users\Pichau\Desktop\projetoFINALpronto\PROJETOFINALCOROLHO\Domain\bin\Debug\Domain.dll
+C:\Users\Pichau\Desktop\projetoFINALpronto\PROJETOFINALCOROLHO\Domain\bin\Debug\Domain.pdb
+C:\Users\Pichau\Desktop\projetoFINALpronto\PROJETOFINALCOROLHO\Domain\obj\Debug\Domain.csprojResolveAssemblyReference.cache
+C:\Users\Pichau\Desktop\projetoFINALpronto\PROJETOFINALCOROLHO\Domain\obj\Debug\Domain.dll
+C:\Users\Pichau\Desktop\projetoFINALpronto\PROJETOFINALCOROLHO\Domain\obj\Debug\Domain.pdb

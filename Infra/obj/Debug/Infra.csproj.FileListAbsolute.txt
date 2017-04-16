@@ -1,0 +1,32 @@
+c:\users\reds\documents\visual studio 2015\Projects\PROJETOFINALCOROLHO\Infra\bin\Debug\Infra.dll.config
+c:\users\reds\documents\visual studio 2015\Projects\PROJETOFINALCOROLHO\Infra\bin\Debug\Infra.dll
+c:\users\reds\documents\visual studio 2015\Projects\PROJETOFINALCOROLHO\Infra\bin\Debug\Infra.pdb
+c:\users\reds\documents\visual studio 2015\Projects\PROJETOFINALCOROLHO\Infra\bin\Debug\Domain.dll
+c:\users\reds\documents\visual studio 2015\Projects\PROJETOFINALCOROLHO\Infra\bin\Debug\Domain.pdb
+c:\users\reds\documents\visual studio 2015\Projects\PROJETOFINALCOROLHO\Infra\obj\Debug\Infra.csprojResolveAssemblyReference.cache
+c:\users\reds\documents\visual studio 2015\Projects\PROJETOFINALCOROLHO\Infra\obj\Debug\Infra.dll
+c:\users\reds\documents\visual studio 2015\Projects\PROJETOFINALCOROLHO\Infra\obj\Debug\Infra.pdb
+C:\Users\Jonatas\Desktop\projetoFINALpronto\PROJETOFINALCOROLHO\Infra\bin\Debug\Infra.dll.config
+C:\Users\Jonatas\Desktop\projetoFINALpronto\PROJETOFINALCOROLHO\Infra\bin\Debug\Infra.dll
+C:\Users\Jonatas\Desktop\projetoFINALpronto\PROJETOFINALCOROLHO\Infra\bin\Debug\Infra.pdb
+C:\Users\Jonatas\Desktop\projetoFINALpronto\PROJETOFINALCOROLHO\Infra\bin\Debug\Domain.dll
+C:\Users\Jonatas\Desktop\projetoFINALpronto\PROJETOFINALCOROLHO\Infra\bin\Debug\Domain.pdb
+C:\Users\Jonatas\Desktop\projetoFINALpronto\PROJETOFINALCOROLHO\Infra\obj\Debug\Infra.csprojResolveAssemblyReference.cache
+C:\Users\Jonatas\Desktop\projetoFINALpronto\PROJETOFINALCOROLHO\Infra\obj\Debug\Infra.dll
+C:\Users\Jonatas\Desktop\projetoFINALpronto\PROJETOFINALCOROLHO\Infra\obj\Debug\Infra.pdb
+C:\Users\Jonatas\Desktop\SI\Sexto\Projects\NAVARRO\Entregar\projetoFINALpronto\PROJETOFINALCOROLHO\Infra\bin\Debug\Infra.dll.config
+C:\Users\Jonatas\Desktop\SI\Sexto\Projects\NAVARRO\Entregar\projetoFINALpronto\PROJETOFINALCOROLHO\Infra\bin\Debug\Infra.dll
+C:\Users\Jonatas\Desktop\SI\Sexto\Projects\NAVARRO\Entregar\projetoFINALpronto\PROJETOFINALCOROLHO\Infra\bin\Debug\Infra.pdb
+C:\Users\Jonatas\Desktop\SI\Sexto\Projects\NAVARRO\Entregar\projetoFINALpronto\PROJETOFINALCOROLHO\Infra\bin\Debug\Domain.dll
+C:\Users\Jonatas\Desktop\SI\Sexto\Projects\NAVARRO\Entregar\projetoFINALpronto\PROJETOFINALCOROLHO\Infra\bin\Debug\Domain.pdb
+C:\Users\Jonatas\Desktop\SI\Sexto\Projects\NAVARRO\Entregar\projetoFINALpronto\PROJETOFINALCOROLHO\Infra\obj\Debug\Infra.csprojResolveAssemblyReference.cache
+C:\Users\Jonatas\Desktop\SI\Sexto\Projects\NAVARRO\Entregar\projetoFINALpronto\PROJETOFINALCOROLHO\Infra\obj\Debug\Infra.dll
+C:\Users\Jonatas\Desktop\SI\Sexto\Projects\NAVARRO\Entregar\projetoFINALpronto\PROJETOFINALCOROLHO\Infra\obj\Debug\Infra.pdb
+C:\Users\Pichau\Desktop\projetoFINALpronto\PROJETOFINALCOROLHO\Infra\bin\Debug\Infra.dll.config
+C:\Users\Pichau\Desktop\projetoFINALpronto\PROJETOFINALCOROLHO\Infra\bin\Debug\Infra.dll
+C:\Users\Pichau\Desktop\projetoFINALpronto\PROJETOFINALCOROLHO\Infra\bin\Debug\Infra.pdb
+C:\Users\Pichau\Desktop\projetoFINALpronto\PROJETOFINALCOROLHO\Infra\bin\Debug\Domain.dll
+C:\Users\Pichau\Desktop\projetoFINALpronto\PROJETOFINALCOROLHO\Infra\bin\Debug\Domain.pdb
+C:\Users\Pichau\Desktop\projetoFINALpronto\PROJETOFINALCOROLHO\Infra\obj\Debug\Infra.csprojResolveAssemblyReference.cache
+C:\Users\Pichau\Desktop\projetoFINALpronto\PROJETOFINALCOROLHO\Infra\obj\Debug\Infra.dll
+C:\Users\Pichau\Desktop\projetoFINALpronto\PROJETOFINALCOROLHO\Infra\obj\Debug\Infra.pdb
